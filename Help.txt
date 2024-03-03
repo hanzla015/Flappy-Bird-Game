@@ -1,0 +1,10 @@
+Hi, Guys this is a game made by Hanzla Anjum.
+
+:- Instructions
+
+=> Use space bar or Up arrow key to move the bird Up.
+=> You have to save the bird from Colliding the pipes.
+=> Do not move the bird so high because if it collide with sky. The game is also over.
+=> Also, Don't make your bird free because it also collides with the floor.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Thanks For Playing this game >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
